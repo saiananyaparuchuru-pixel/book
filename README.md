@@ -1,8 +1,6 @@
 # The Rust Programming Language
 
-![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
-
-This repository contains the source of "The Rust Programming Language" book.
+![Build Status](https://github.com/rust-lang/book/workflows/CI/badThis repository contains the source of "The Rust Programming Language" book.
 
 [The book is available in dead-tree form from No Starch Press][nostarch].
 
